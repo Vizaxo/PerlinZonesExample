@@ -1,0 +1,14 @@
+{
+    "id" : "PerlinZonesExample",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Vizaxo",
+    "displayName" : "PerlinZonesExample",
+    "description" : "",
+    "dependencies" : [
+         {
+             "id" : "Core",
+             "minVersion" : "1.0.0"
+         }
+],
+    "serverSideOnly" : false
+}
